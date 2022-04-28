@@ -1,0 +1,48 @@
+body {
+  padding: 25px;
+}
+.comments {
+  max-width: 75%;
+  margin: 10px;
+}
+
+.textarea {
+  max-width: 75%;
+  margin: 10px;
+}
+
+.options {
+  position: relative;
+}
+
+.delete {
+  position: absolute;
+  right: 0;
+}
+
+.comments .comment {
+  margin-left: 2.5%;
+  margin-top: 10px;
+}
+.comments .comment .span {
+  font-weight: bolder;
+  margin-right: 10px;
+  font-size: x-large;
+}
+
+.comments .comment .reply {
+  margin-left: 5%;
+  margin-top: 10px;
+}
+
+.textarea textarea {
+  margin: 10px;
+}
+
+.textarea button {
+  margin-left: 10px;
+}
+
+.like {
+  margin-right: 15px;
+}
